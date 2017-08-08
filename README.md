@@ -1,2 +1,2 @@
 # Flyp
-A dope app at SBHacks
+A unique messaging app created at SBHacks
